@@ -34,6 +34,12 @@ The project consists of two analytical notebooks:
 
 ---
 
+## Dataset
+
+The original dataset was stored in a SQLite database (~2 GB). Due to GitHub file size limitations, the database is not included in this repository. The notebooks demonstrate the complete end-to-end analysis workflow using procurement and vendor transaction data. The analysis can be reproduced using datasets with the same schema.
+
+---
+
 ## Repository Structure
 
 ```text
